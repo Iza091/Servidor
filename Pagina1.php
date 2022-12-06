@@ -1,5 +1,5 @@
 <form method="post"
-action="pagina2.php">
+action="Pagina2.php">
 Por favor, envía la newsletter a: <br/>
 Tu nombre: <input type="text"
 name="nombre"/><br/>
